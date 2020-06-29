@@ -1,6 +1,6 @@
 # soledesign
 
-A new Flutter project.
+A new Flutter project. This is the Business Catalog with wordpress Backend. Login ,Register, and Add Business.
 
 ## Getting Started
 
